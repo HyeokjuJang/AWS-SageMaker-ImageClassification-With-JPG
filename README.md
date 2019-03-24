@@ -20,6 +20,9 @@ Using MXNet
 1. S3 버킷(버킷의 이름에는 sagemaker가 들어가게 지어주세요 sagemaker의 권한에 S3 버킷중 sagemaker라는 텍스트가 들어가있으면 접속을 허가하는 역할이 있어요.)
 2. Sagemaker 새 노트북 인스턴스(생성하면서 역할을 선택할 때 1번에 있는 항목이 되어있는지 확인해주세요!)
 ## 다음으로 해야할 것
-이 리포지토리에 있는 주피터 노트북파일(.ipynb)을 Sagemaker 노트북 안으로 넣어주셔야해요.
-넣는 방법은 간단해요. Sagemaker 주피터 노트북으로 접속해주시고 New - Terminal에서 cd SageMaker로 가셔서 git clone https://github.com/HyeokjuJang/AWS-SageMaker-ImageClassification-With-JPG/ 을 해주세요. 그러면 클론이 이루어집니다! 
+이 리포지토리에 있는 주피터 노트북파일(.ipynb)을 Sagemaker 노트북 안으로 넣어주셔야해요.  
+넣는 방법은 간단해요. Sagemaker 주피터 노트북으로 접속해주시고 New - Terminal에서 cd SageMaker로 가셔서  
+>  git clone https://github.com/HyeokjuJang/AWS-SageMaker-ImageClassification-With-JPG/   
+
+을 해주세요. 그러면 클론이 이루어집니다!  
 넣는 것까지 다 하셨다면 이제 ipynb파일을 여시고 해당 내용을 따라가주세요!
